@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Janna Tazara
 
-Welcome to my GitHub! I'm a final-year student majoring in **Manajemen Informatika** at Institut Teknologi Mitra Gama.
+Welcome to my GitHub! I'm a final-year student majoring in **Managemen Informatika** at Institut Teknologi Mitra Gama.
 
 I enjoy building websites, developing Android apps, and managing data. Here's a bit more about me:
 
@@ -17,7 +17,7 @@ I enjoy building websites, developing Android apps, and managing data. Here's a 
 ## 🛠️ Tech Stack
 - **Languages:** HTML, CSS, PHP, Java, SQL
 - **Tools:** VS Code, Android Studio, Git, XAMPP
-- **Design:** Figma, Canva, Adobe Premiere
+- **Design:** Canva, Adobe Premiere
 - **Office Tools:** Excel, Word, PowerPoint
 
 ---
@@ -31,7 +31,7 @@ I enjoy building websites, developing Android apps, and managing data. Here's a 
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [tazarajanna.com]
 - 💼 LinkedIn: [linkedin.com/in/yourprofile]
 - 🌐 Portfolio: [yourportfolio.link]
 
