@@ -32,9 +32,7 @@ I enjoy building websites, developing Android apps, and managing data. Here's a 
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🌐 Portfolio: [yourportfolio.link]
+- 📧 Email: [tazarajanna@gmail.com]
 
 ---
 
