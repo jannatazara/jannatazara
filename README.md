@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**jannatazara/jannatazara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Janna Tazara
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a final-year student majoring in **Manajemen Informatika** at Institut Teknologi Mitra Gama.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building websites, developing Android apps, and managing data. Here's a bit more about me:
+
+---
+
+## ✨ About Me
+- 🎓 Currently waiting for graduation from Diploma III in Manajemen Informatika
+- 💼 Internship experience at PT. Sertco Quality as a documentation and data project admin
+- 🌱 Passionate about web development, UI design, and digital productivity
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, PHP, Java, SQL
+- **Tools:** VS Code, Android Studio, Git, XAMPP
+- **Design:** Figma, Canva, Adobe Premiere
+- **Office Tools:** Excel, Word, PowerPoint
+
+---
+
+## 📚 Projects
+- **Website Sekolah**: A responsive school website with admin panel and article features
+- **Jadwal Kuliah App**: Android app to help students manage class schedules
+- **Sistem Laporan Keuangan**: Web app for managing and exporting financial records
+- **Video Profil UKM**: Editing and scripting video content for student organization promotions
+
+---
+
+## 📬 Let's Connect
+- 📧 Email: [your-email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]
+- 🌐 Portfolio: [yourportfolio.link]
+
+---
+
+> _"Learning never exhausts the mind, it only ignites new ideas."_
+
+---
+
+![Janna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jannatazara&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatazara&layout=compact)
