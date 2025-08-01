@@ -25,15 +25,12 @@ I enjoy building websites, developing Android apps, and managing data. Here's a 
 ## 📚 Projects
 - **Website Sekolah**: A responsive school website with admin panel and article features
 - **Jadwal Kuliah App**: Android app to help students manage class schedules
-- **Sistem Laporan Keuangan**: Web app for managing and exporting financial records
-- **Video Profil UKM**: Editing and scripting video content for student organization promotions
+
 
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: [tazarajanna.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🌐 Portfolio: [yourportfolio.link]
+- 📧 Email: [tazarajanna@gmail.com]
 
 ---
 
