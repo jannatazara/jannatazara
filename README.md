@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Janna Tazara
 
-Welcome to my GitHub! I'm a final-year student majoring in **Managemen Informatika** at Institut Teknologi Mitra Gama.
+Welcome to my GitHub! I'm a final-year student majoring in **Manajemen Informatika** at Institut Teknologi Mitra Gama.
 
 I enjoy building websites, developing Android apps, and managing data. Here's a bit more about me:
 
