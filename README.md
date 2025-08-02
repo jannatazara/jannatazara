@@ -22,13 +22,6 @@ I enjoy building websites, developing Android apps, and managing data. Here's a 
 
 ---
 
-## 📚 Projects
-- **Website Perpustakaan**: Sistem informasi perpustakaan berbasis web untuk pengelolaan buku dan peminjaman.
-- **Website Kampus (HTML Static)**: Website profil kampus yang menampilkan informasi fakultas dan berita.
-- **Aplikasi Android Belajar Anak TK**: Aplikasi edukasi interaktif dengan gambar dan suara untuk anak usia dini.
-- **Aplikasi Android Game Sederhana**: Game berbasis Android sebagai media hiburan dan belajar logika dasar.
-- **Aplikasi Android Penjualan Barang**: Sistem penjualan berbasis mobile dengan fitur katalog, keranjang, dan checkout.
-
 ---
 
 ## 📬 Let's Connect
