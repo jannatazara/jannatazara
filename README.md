@@ -5,12 +5,7 @@ Welcome to my GitHub! I'm a final-year student majoring in **Manajemen Informati
 
 I enjoy building websites, developing Android apps, and managing data. Here's a bit more about me:
 
----
 
-## ✨ About Me
-- 🎓 Currently waiting for graduation from Diploma III in Manajemen Informatika
-- 💼 Internship experience at PT. Sertco Quality as a documentation and data project admin
-- 🌱 Passionate about web development, UI design, and digital productivity
 
 ---
 
@@ -22,7 +17,6 @@ I enjoy building websites, developing Android apps, and managing data. Here's a 
 
 ---
 
----
 
 ## 📬 Let's Connect
 - 📧 Email: [tazarajanna@gmail.com]
